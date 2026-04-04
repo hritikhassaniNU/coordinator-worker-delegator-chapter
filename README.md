@@ -46,6 +46,7 @@ MIT
 ---
 
 ## 📝 requirements.txt CONTENT
-```
+
 nest-asyncio
 matplotlib
+```
