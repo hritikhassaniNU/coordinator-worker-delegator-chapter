@@ -35,7 +35,7 @@ jupyter notebook Chapter7_Demo.ipynb
 
 ## Author
 
-**Hritik Ram**  
+**Hritik Hassani**  
 Northeastern University | INFO 7375: Prompt Engineering for Generative AI
 
 ## License
